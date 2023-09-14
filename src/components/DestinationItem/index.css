@@ -1,0 +1,18 @@
+.destination-image {
+  height: 200px;
+  width: 240px;
+}
+
+.destination-name {
+  font-size: 20px;
+  color: #0f172a;
+  text-align: left;
+  width: 240px;
+}
+
+@media screen and (min-width: 768px) {
+  .item-container {
+    margin-right: 24px;
+    margin-bottom: 15px;
+  }
+}
